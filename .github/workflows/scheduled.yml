@@ -19,4 +19,3 @@ jobs:
       repository: epam/ai-dial-quickapps-backend
       images: |
         epam/ai-dial-quickapps-backend
-        epam/ai-dial-sca-pilot-missing-image
